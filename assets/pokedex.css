@@ -1,0 +1,18 @@
+body{
+  margin: 200px 20px 20px 250px;
+  background-color: #946be0;
+}
+
+button{
+  border-radius: 20px;
+  font-size: 20px;
+  font-family: fantasy;
+  color: black;
+  background-color:#bd30e5
+}
+input{
+  font-size: 20px;
+}
+select{
+  font-size: 20px;
+}
